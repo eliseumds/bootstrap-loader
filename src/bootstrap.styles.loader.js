@@ -37,10 +37,6 @@ module.exports = function() {
     processedStyles.push(createUserImport(preBootstrapCustomizations, this));
   }
 
-  if (bootstrapVersion === 4) {
-    processedStyles.push(createBootstrapImport('functions', bootstrapVersion, bootstrapRelPath));
-  }
-
   processedStyles.push(createBootstrapImport('variables', bootstrapVersion, bootstrapRelPath));
 
   if (bootstrapVersion === 3 && !useCustomIconFontPath) {
