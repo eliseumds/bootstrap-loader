@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-loader",
-  "version": "2.2.0",
+  "name": "eliseumds-bootstrap-loader",
+  "version": "0.0.1",
   "description": "Boostrap for Webpack",
   "main": "loader.js",
   "scripts": {
@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shakacode/bootstrap-loader.git"
+    "url": "https://github.com/eliseumds/bootstrap-loader.git"
   },
   "bugs": {
-    "url": "https://github.com/shakacode/bootstrap-loader/issues"
+    "url": "https://github.com/eliseumds/bootstrap-loader/issues"
   },
-  "homepage": "https://github.com/shakacode/bootstrap-loader#readme",
+  "homepage": "https://github.com/eliseumds/bootstrap-loader#readme",
   "keywords": [
     "bootstrap",
     "twitter"
