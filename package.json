@@ -1,6 +1,6 @@
 {
   "name": "eliseumds-bootstrap-loader",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Boostrap for Webpack",
   "main": "loader.js",
   "scripts": {
